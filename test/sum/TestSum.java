@@ -18,7 +18,7 @@ public class TestSum {
 	
 	@Test
 	public void testSumWithNeg(){
-		assertEquals(-2, sum(-9, 7));
+		assertEquals(-4, sum(-9, 5));
 	}
 	
 	
